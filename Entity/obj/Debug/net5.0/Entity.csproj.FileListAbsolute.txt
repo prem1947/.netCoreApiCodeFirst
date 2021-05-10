@@ -1,0 +1,12 @@
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\bin\Debug\net5.0\Entity.deps.json
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\bin\Debug\net5.0\Entity.dll
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\bin\Debug\net5.0\ref\Entity.dll
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\bin\Debug\net5.0\Entity.pdb
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\obj\Debug\net5.0\Entity.csprojAssemblyReference.cache
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\obj\Debug\net5.0\Entity.dll
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\obj\Debug\net5.0\ref\Entity.dll
+E:\CoreApiStudy\RepositoryCodeFirst\Entity\obj\Debug\net5.0\Entity.pdb

@@ -1,0 +1,17 @@
+E:\CoreApiStudy\RepositoryCodeFirst\Service\bin\Debug\net5.0\RepoService.deps.json
+E:\CoreApiStudy\RepositoryCodeFirst\Service\bin\Debug\net5.0\RepoService.dll
+E:\CoreApiStudy\RepositoryCodeFirst\Service\bin\Debug\net5.0\ref\RepoService.dll
+E:\CoreApiStudy\RepositoryCodeFirst\Service\bin\Debug\net5.0\RepoService.pdb
+E:\CoreApiStudy\RepositoryCodeFirst\Service\bin\Debug\net5.0\DbCon.dll
+E:\CoreApiStudy\RepositoryCodeFirst\Service\bin\Debug\net5.0\Entity.dll
+E:\CoreApiStudy\RepositoryCodeFirst\Service\bin\Debug\net5.0\DbCon.pdb
+E:\CoreApiStudy\RepositoryCodeFirst\Service\bin\Debug\net5.0\Entity.pdb
+E:\CoreApiStudy\RepositoryCodeFirst\Service\obj\Debug\net5.0\RepoService.csprojAssemblyReference.cache
+E:\CoreApiStudy\RepositoryCodeFirst\Service\obj\Debug\net5.0\RepoService.GeneratedMSBuildEditorConfig.editorconfig
+E:\CoreApiStudy\RepositoryCodeFirst\Service\obj\Debug\net5.0\RepoService.AssemblyInfoInputs.cache
+E:\CoreApiStudy\RepositoryCodeFirst\Service\obj\Debug\net5.0\RepoService.AssemblyInfo.cs
+E:\CoreApiStudy\RepositoryCodeFirst\Service\obj\Debug\net5.0\RepoService.csproj.CoreCompileInputs.cache
+E:\CoreApiStudy\RepositoryCodeFirst\Service\obj\Debug\net5.0\RepoService.csproj.CopyComplete
+E:\CoreApiStudy\RepositoryCodeFirst\Service\obj\Debug\net5.0\RepoService.dll
+E:\CoreApiStudy\RepositoryCodeFirst\Service\obj\Debug\net5.0\ref\RepoService.dll
+E:\CoreApiStudy\RepositoryCodeFirst\Service\obj\Debug\net5.0\RepoService.pdb
